@@ -1,0 +1,4 @@
+smu/
+.vscode/
+/__pycache__/
+*.pyc
